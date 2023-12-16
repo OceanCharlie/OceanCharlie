@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ocean Charlie Gunawan
-- 👀 I’m interested in programming, graphic design, audio visual production, and digital marketing.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programming, Graphic Design, Audio Visual Production, and Digital Marketing.
+- 🌱 I’m currently learning C++, HTML, CSS, JavaScript
 - 📫 How to reach me: email me on oceancgs@gmail.com
 
 <!---
