@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤖 Founder of Spade Idn, a digital creative agency (Web Development & Creative Services)<br>💼 ex-Intern at TechConnect (Formerly Sinar Mas Mining) <br>🖥️ Building Fullstack Projects with React, Next Js, and modern web tech<br>📊 Interested in ETL processes and data utilization for Big Data Analytics, with experience in Data Warehouse design using Kimball methodology</p>
+<p align="left">🤖 Founder of Spade Idn, a digital creative agency (Web Development & Creative Services)<br>💼 ex-Intern at TechConnect (Formerly Sinar Mas Mining) <br>🖥️ Building Fullstack Projects with React, Next Js, and modern web tech<br>📊 Also interested in ETL processes and data utilization for Big Data Analytics, with experience in Data Warehouse design using Kimball methodology</p>
 
 ###
 
