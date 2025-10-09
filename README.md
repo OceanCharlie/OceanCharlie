@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Information Systems student at Tarumanagara University with a strong interest in **Frontend Development** and modern web technologies. I enjoy turning ideas into interactive and user-friendly digital products. In addition to coding, I also have experience in **UI/UX design, creative media, and digital marketing**, which allow me to approach projects from both technical and creative perspectives. With this combination, I aim to build solutions that are not only functional, but also engaging and impactful. </p>
+<p align="left"> Information Systems student at Tarumanagara University with a strong interest in <b>Frontend Development and modern web technologies</b>. I enjoy turning ideas into interactive and user-friendly digital products. In addition to coding, I also have experience in <b>UI/UX design, Creative Media, and Digital Marketing</b>, which allow me to approach projects from both technical and creative perspectives. With this combination, I aim to build solutions that are not only functional, but also engaging and impactful. </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤖 Founder of Spade Idn, a digital creative agency (rebranding into web development & creative services)<br>🖥️ Building Fullstack Projects with JavaScript, EJS, and modern web tech<br>📊 Data analysis & Data Warehouse design with Kimball methodology</p>
+<p align="left">🤖 Founder of Spade Idn, a digital creative agency (Web Development & Creative Services)<br>💼 ex-Intern at TechConnect (Formerly Sinar Mas Mining) <br>🖥️ Building Fullstack Projects with React, Next Js, and modern web tech<br>📊 Interested in ETL processes and data utilization for Big Data Analytics, with experience in Data Warehouse design using Kimball methodology</p>
 
 ###
 
