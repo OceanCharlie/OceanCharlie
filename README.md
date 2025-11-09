@@ -1,79 +1,65 @@
-<h1 align="left">Hi! I'm Ocean 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ocean+👋;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Creative+Thinker+%26+Problem+Solver" alt="Typing SVG" />
+</div>
+<br>
 
-###
+---
 
-<p align="left"> Information Systems student at Tarumanagara University with a strong interest in <b>Frontend Development and modern web technologies</b>. I enjoy turning ideas into interactive and user-friendly digital products. In addition to coding, I also have experience in <b>UI/UX design, Creative Media, and Digital Marketing</b>, which allow me to approach projects from both technical and creative perspectives. With this combination, I aim to build solutions that are not only functional, but also engaging and impactful. </p>
+Information Systems student at Tarumanagara University passionate about **Frontend Development** and **modern web technologies**. I enjoy turning ideas into interactive, user-friendly digital experiences. With experience in **UI/UX design**, **creative media**, and **digital marketing**, I approach every project from both technical and creative perspectives.
 
-###
-
-<h2 align="left">💡 What I Do</h2>
-
-###
-
-<p align="left">🤖 Founder of Spade Idn, a digital creative agency (Web Development & Creative Services)<br>💼 ex-Intern at TechConnect (Formerly Sinar Mas Mining) <br>🖥️ Building Fullstack Projects with React, Next Js, and modern web tech<br>📊 Also interested in ETL processes and data utilization for Big Data Analytics, with experience in Data Warehouse design using Kimball methodology</p>
-
-###
-
-<h2 align="left">🚀 Languages and Tools I Use</h2>
-
-###
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="40" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OceanCharlie&theme=transparent&hide_border=true" height="180px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OceanCharlie&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="180px"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
-<h2 align="left">📫 How to Reach Me</h2>
+### 💼 What I’m Working On
+- 🧠 Founder of **Spade Idn** — a digital creative agency for Web & Creative Services.  
+- 💻 Exploring **Fullstack projects** with **React**, **Next.js**, and modern frameworks.
+- 📊 Expanding my knowledge in **Big Data Analytics** and **ETL Data Warehousing** to complement my frontend and UX-focused development skills.
+- 🧩 Ex-Intern at **TechConnect** (formerly Sinar Mas Mining).
+- 🎓 Currently active as a **Teaching Assistant** for Oracle Database Administrator at **Tarumanagara University**.
+
+---
+
+### ⚙️ Tech Stack & Tools
 <div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs&perline=9" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,php,spring,git,linux,postman,py,tensorflow,cpp&perline=9" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&perline=9" /><br/>
+</div>
+
+---
+
+### 🌐 Want to Know More? Let's Connect!
+<p align="center">
   <a href="mailto:oceancgs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
   <a href="https://www.linkedin.com/in/ocean-charlie-gunawan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/oceancharlie18/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://medium.com/@oceancharlie" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  <a href="https://github.com/OceanCharlie" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
+</p>
 
-###
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Let's+build+something+awesome+together.🚀" alt="Thanks for visiting" />
+</div>
