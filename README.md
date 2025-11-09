@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ocean+👋;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Creative+Thinker+%26+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ocean+👋;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Creative+Thinker+%26+Problem+Solver" />
 </div>
-<br>
 
 ---
 
-Information Systems student at Tarumanagara University passionate about **Frontend Development** and **modern web technologies**. I enjoy turning ideas into interactive, user-friendly digital experiences. With experience in **UI/UX design**, **creative media**, and **digital marketing**, I approach every project from both technical and creative perspectives.
+<p align="center"> Information Systems student at Tarumanagara University passionate about <b>Frontend Development</b> and <b>modern web technologies</b>. I enjoy turning ideas into interactive, user-friendly digital experiences. With experience in <b>UI/UX design</b>, <b>creative media</b>, and <b>digital marketing</b>, I approach every project from both technical and creative perspectives.<p/>
 
 ---
 
@@ -25,16 +24,16 @@ Information Systems student at Tarumanagara University passionate about **Fronte
 ---
 
 ### 💼 What I’m Working On
-- 🧠 Founder of **Spade Idn** — a digital creative agency for Web & Creative Services.  
-- 💻 Exploring **Fullstack projects** with **React**, **Next.js**, and modern frameworks.
-- 📊 Expanding my knowledge in **Big Data Analytics** and **ETL Data Warehousing** to complement my frontend and UX-focused development skills.
-- 🧩 Ex-Intern at **TechConnect** (formerly Sinar Mas Mining).
-- 🎓 Currently active as a **Teaching Assistant** for Oracle Database Administrator at **Tarumanagara University**.
+- 🧠 Founder of <b>Spade Idn</b> — a digital creative agency for Web & Creative Services.  
+- 💻 Exploring <b>Fullstack projects</b> with <b>React</b>, <b>Next.js</b>, and modern frameworks.
+- 📊 Expanding my knowledge in <b>Big Data Analytics</b> and <b>ETL Data Warehousing</b> to complement my frontend and UX-focused development skills.
+- 🧩 Ex-Intern at <b>TechConnect</b> (formerly Sinar Mas Mining).
+- 🎓 Currently active as a <b>Teaching Assistant</b> for Oracle Database Administrator at <b>Tarumanagara University</b>.
 
 ---
 
 ### ⚙️ Tech Stack & Tools
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs&perline=9" /><br/>
 <img src="https://skillicons.dev/icons?i=mysql,php,spring,git,linux,postman,py,tensorflow,cpp&perline=9" />
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&perline=9" /><br/>
@@ -43,7 +42,7 @@ Information Systems student at Tarumanagara University passionate about **Fronte
 ---
 
 ### 🌐 Want to Know More? Let's Connect!
-<p align="center">
+<p align="left">
   <a href="mailto:oceancgs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
@@ -57,9 +56,3 @@ Information Systems student at Tarumanagara University passionate about **Fronte
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Let's+build+something+awesome+together.🚀" alt="Thanks for visiting" />
-</div>
