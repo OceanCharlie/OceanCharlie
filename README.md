@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ocean+👋;Frontend+Developer+%7C+Data-Driven+Enthusiast;Creative+Thinker+%26+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ocean+👋;Frontend+Developer+%7C+Data+Enthusiast;Creative+Thinker+%26+Problem+Solver" />
 </div>
 
 ---
 
 <p align="center">
   Information Systems student at Tarumanagara University with a strong focus on  
-  <b>Frontend Engineering</b> and <b>Data-Driven Development</b>.  
+  <b>Frontend Engineering</b> and <b>Data-Driven Development</b>.<br/>
   I build clean, interactive, and scalable user interfaces — while leveraging 
   <b>data analytics, ETL pipelines, and visualization</b> to support smarter product decisions.
 </p>
@@ -42,8 +42,8 @@
 ### ⚙️ Tech Stack & Tools
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs&perline=9" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,php,spring,git,linux,postman,py,tensorflow,vercel,cpp&perline=9" />
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr&perline=9" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,php,spring,git,linux,postman,py,tensorflow,vercel&perline=9" />
+<img src="https://skillicons.dev/icons?i=cpp,figma,xd,ps,ai,pr&perline=9" /><br/>
 <br>
 <p>Other Tech Stack & Tools: <b>Oracle Linux 8, Oracle Database 23ai, SQL*Plus, SQL Server Management Studio (SSMS), Pandas, Numpy, Matplotlib, Seaborn</b></p>
 </div>
