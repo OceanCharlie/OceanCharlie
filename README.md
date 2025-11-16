@@ -1,10 +1,15 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ocean+👋;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Creative+Thinker+%26+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ocean+👋;Frontend+Developer+%7C+Data-Driven+Enthusiast;Creative+Thinker+%26+Problem+Solver" />
 </div>
 
 ---
 
-<p align="center"> Information Systems student at Tarumanagara University passionate about <b>Frontend Development</b> and <b>modern web technologies</b>. I enjoy turning ideas into interactive, user-friendly digital experiences. With experience in <b>UI/UX design</b>, <b>creative media</b>, and <b>digital marketing</b>, I approach every project from both technical and creative perspectives.<p/>
+<p align="center">
+  Information Systems student at Tarumanagara University with a strong focus on  
+  <b>Frontend Engineering</b> and <b>Data-Driven Development</b>.  
+  I build clean, interactive, and scalable user interfaces — while leveraging 
+  <b>data analytics, ETL pipelines, and visualization</b> to support smarter product decisions.
+</p>
 
 ---
 
@@ -23,20 +28,24 @@
 
 ---
 
-### 💼 What I’m Working On
-- 🧠 Founder of <b>Spade Idn</b> — a digital creative agency for Web & Creative Services.  
-- 💻 Exploring <b>Fullstack projects</b> with <b>React</b>, <b>Next.js</b>, and modern frameworks.
-- 📊 Expanding my knowledge in <b>Big Data Analytics</b> and <b>ETL Data Warehousing</b> to complement my frontend and UX-focused development skills.
-- 🧩 Ex-Intern at <b>TechConnect</b> (formerly Sinar Mas Mining).
-- 🎓 Currently active as a <b>Teaching Assistant</b> for Oracle Database Administrator at <b>Tarumanagara University</b>.
+### 🚀 What I’m Focusing On
+- 💻 Growing as a **Frontend Developer** using React, Next.js, and modern frontend ecosystems.  
+- 📊 Diving deeper into **Data Analytics**, **ETL**, **Data Warehousing**, and **Visualization**.  
+- 🧠 Founder of **Spade Idn**, a digital creative agency for Web & Creative Services.  
+- 🎓 **Teaching Assistant** for Oracle Database Administrator — working with  
+  **Oracle Database 23ai**, **Oracle Linux 8**, and enterprise-level database tools.  
+- 🧩 Ex-Intern at **TechConnect** (formerly Sinar Mas Mining).  
+- 🌐 Experimenting with **data-driven UI** and integrated dashboards.
 
 ---
 
 ### ⚙️ Tech Stack & Tools
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs&perline=9" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,php,spring,git,linux,postman,py,tensorflow,cpp&perline=9" />
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&perline=9" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,php,spring,git,linux,postman,py,tensorflow,vercel,cpp&perline=9" />
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr&perline=9" /><br/>
+<br>
+<p>Other Tech Stack & Tools: <b>Oracle Linux 8, Oracle Database 23ai, SQL*Plus, SQL Server Management Studio (SSMS), Pandas, Numpy, Matplotlib, Seaborn</b></p>
 </div>
 
 ---
