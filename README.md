@@ -17,7 +17,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OceanCharlie&theme=transparent&hide_border=true" height="180px"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OceanCharlie&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" height="180px"/>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OceanCharlie&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="180px"/>
