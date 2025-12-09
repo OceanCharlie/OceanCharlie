@@ -19,6 +19,12 @@
       <td>
         <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=OceanCharlie&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
       </td>
+      <td>
+        <img 
+          src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=OceanCharlie&layout=compact&hide_border=true&theme=transparent" 
+          alt="Top Languages"
+          />
+      </td>
     </tr>
   </table>
 </div>
