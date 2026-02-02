@@ -16,7 +16,8 @@
 ### 🚀 What I’m Focusing On
 - 💻 Growing as a **Frontend Developer** using React, Next.js, and modern frontend ecosystems.  
 - 📊 Diving deeper into **Data Analytics**, **ETL**, **Data Warehousing**, and **Visualization**.  
-- 🧠 Founder of **Spade Idn**, a digital creative agency for Web & Creative Services.  
+- 🧠 Founder of **Spade Idn**, a digital creative agency for Web & Creative Services.
+- ⚙ **Marketing Engineer** at **Simas Insurtech**
 - 🎓 **Ex-Teaching Assistant** for Oracle Database Administrator — working with  
   **Oracle Database 23ai**, **Oracle Linux 8**, and enterprise-level database tools.  
 - 🧩 Ex-Intern at **TechConnect** (formerly Sinar Mas Mining).  
